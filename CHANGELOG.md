@@ -20,6 +20,10 @@
 - Change calculation of search box and search icon padding in Search component
 - Change search style medium and large to same as search default in Search component
 
+### Fixed
+
+- Fix hidden class keep showing elements on hover if a link is clicked in Visibility component
+
 ## WIP
 
 ### Fixed
